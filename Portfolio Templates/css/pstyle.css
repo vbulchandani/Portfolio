@@ -1,0 +1,51 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #3b5998;
+	text-align: center;
+}
+
+li {
+    float: right;
+}
+
+li a {
+    display: block;
+    color: white;
+    padding: 9px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #273E72;
+}
+
+#project {
+	color: #3b5998;
+	padding-top: 20px;
+	font-size: 2.5em;
+	font-family: "Comic Sans MS";
+	text-align: center;
+}
+
+div.type1{
+	background-color: #3b5998;
+	color: white;
+	font-family: "Comic Sans MS";
+	margin: 20px 0 20px 0;
+    padding: 20px;
+}
+
+div.type2{
+	background-color: white;
+	color: #3b5998;
+	font-family: "Comic Sans MS";
+	margin: 20px 0 20px 0;
+    padding: 20px;
+}
+	
+p.info{
+	font-family:"Arial";
+}
