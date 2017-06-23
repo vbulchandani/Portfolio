@@ -1,6 +1,6 @@
   document.addEventListener('DOMContentLoaded', function(){
       Typed.new('.element', {
-        strings: ["Vishal Bulchandani"],
+        strings: ["Your Name"],
         typeSpeed: 0
       });
   });
